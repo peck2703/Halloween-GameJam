@@ -1,6 +1,19 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Blender
+WIPAssets/Andrew/* 
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+*.blend10
+
 # Compiled Object files
 *.slo
 *.lo
